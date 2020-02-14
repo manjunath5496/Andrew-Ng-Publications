@@ -153,7 +153,7 @@
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(85).pdf" style="text-decoration:none;">Automatic Single-Image 3d Reconstructions of Indoor Manhattan World Scenes</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(86).pdf" style="text-decoration:none;">A Vision-based System for Grasping Novel Objects in Cluttered Environments</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(87).pdf" style="text-decoration:none;">Latent Dirichlet Allocation</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(87).pdf" style="text-decoration:none;">Latent Dirichlet Allocation (Extended Version)</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(88).pdf" style="text-decoration:none;">Learning Factor Graphs in Polynomial Time and Sample Complexity</a></b></li>
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(89).pdf" style="text-decoration:none;">An Experimental and Theoretical Comparison of Model Selection Methods</a></b></li>
   
@@ -167,98 +167,96 @@
   
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(95).pdf" style="text-decoration:none;">Classification with Hybrid Generative/Discriminative Models </a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(96).pdf" style="text-decoration:none;">Deep Neural Network Detects Quantum Phase Transition</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(96).pdf" style="text-decoration:none;">Learning first-order Markov models for control</a></b></li> 
   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(97).pdf" style="text-decoration:none;">Towards reduction of autocorrelation in HMC by machine learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(97).pdf" style="text-decoration:none;">Learning syntactic patterns for automatic hypernym discovery</a></b></li>
 
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(98).pdf" style="text-decoration:none;">Information Perspective to Probabilistic Modeling: Boltzmann Machines versus Born Machines</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(98).pdf" style="text-decoration:none;">Online Bounds for Bayesian Algorithms</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(99).pdf" style="text-decoration:none;">A Quantum Extension of Variational Bayes Inference</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(99).pdf" style="text-decoration:none;">Stable adaptive control with online learning</a></b></li>  
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(100).pdf" style="text-decoration:none;">A quantum algorithm to train neural networks using low-depth circuits</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(100).pdf" style="text-decoration:none;">Fast Gaussian Process Regression using KD-Trees</a></b></li>  
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(101).pdf" style="text-decoration:none;">Pattern recognition techniques for Boson Sampling validation</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(101).pdf" style="text-decoration:none;">Learning vehicular dynamics, with application to modeling helicopters</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(102).pdf" style="text-decoration:none;">Learning Relevant Features of Data with Multi-scale Tensor Networks</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(102).pdf" style="text-decoration:none;">On Local Rewards and Scaling Distributed Reinforcement Learning</a></b></li> 
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(103).pdf" style="text-decoration:none;">A relativistic extension of Hopfield neural networks via the mechanical analogy </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(103).pdf" style="text-decoration:none;">Learning Depth from Single Monocular Images</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(104).pdf" style="text-decoration:none;">Generative Models for Stochastic Processes Using Convolutional Neural Networks</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(104).pdf" style="text-decoration:none;">Transfer learning for text classification</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(105).pdf" style="text-decoration:none;">Scale-invariant Feature Extraction of Neural Network and Renormalization Group Flow</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(105).pdf" style="text-decoration:none;">Hierarchical Apprenticeship Learning, with Application to Quadruped Locomotion</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(106).pdf" style="text-decoration:none;">Experimentally Detecting a Quantum Change Point via Bayesian Inference</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(106).pdf" style="text-decoration:none;">Efficient multiple hyperparameter learning for log-linear models</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(107).pdf" style="text-decoration:none;">Leveraging Adiabatic Quantum Computation for Election Forecasting</a></b></li> 
-  
-   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(108).pdf" style="text-decoration:none;">Deep UQ: Learning deep neural network surrogate models for high dimensional uncertainty quantification</a></b></li> 
-  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(109).pdf" style="text-decoration:none;">Critical Percolation as a Framework to Analyze the Training of Deep Networks</a></b></li>  
-   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(110).pdf" style="text-decoration:none;">Neural Network Renormalization Group</a></b></li>  
-   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(111).pdf" style="text-decoration:none;">Taking gradients through experiments: LSTMs and memory proximal policy optimization for black-box quantum control</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(107).pdf" style="text-decoration:none;">Sparse deep belief net model for visual area V2</a></b></li> 
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(112).pdf" style="text-decoration:none;">Reinforcement Learning with Neural Networks for Quantum Feedback</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(108).pdf" style="text-decoration:none;">Unsupervised feature learning for audio classification using convolutional deep belief networks</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(113).pdf" style="text-decoration:none;">Learning DNFs under product distributions via μ–biased quantum Fourier sampling</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(109).pdf" style="text-decoration:none;">Measuring Invariances in Deep Networks</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(114).pdf" style="text-decoration:none;">Inferring relevant features: from QFT to PCA</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(115).pdf" style="text-decoration:none;">Quantum Variational Autoencoder</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(110).pdf" style="text-decoration:none;">Energy Disaggregation via Discriminative Sparse Coding</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(116).pdf" style="text-decoration:none;">The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity</a></b></li>   
-   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(117).pdf" style="text-decoration:none;">Deep neural decoders for near term fault-tolerant experiments</a></b></li>  
-   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(118).pdf" style="text-decoration:none;">Advantages of versatile neural-network decoding for topological codes</a></b></li>  
-   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(119).pdf" style="text-decoration:none;">Online Learning of Quantum States</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(111).pdf" style="text-decoration:none;">Tiled convolutional neural networks</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(120).pdf" style="text-decoration:none;">Parameter diagnostics of phases and phase transition learning by neural networks</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(121).pdf" style="text-decoration:none;">Universal Quantum Control through Deep Reinforcement Learning</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(112).pdf" style="text-decoration:none;">Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(113).pdf" style="text-decoration:none;">ICA with Reconstruction Cost for Efficient Overcomplete Feature Learning</a></b></li>  
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(122).pdf" style="text-decoration:none;">Energy-entropy competition and the effectiveness of stochastic gradient descent in machine learning </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(114).pdf" style="text-decoration:none;">Selecting Receptive Fields in Deep Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(115).pdf" style="text-decoration:none;">Sparse Filtering</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(116).pdf" style="text-decoration:none;">Unsupervised learning models of primary cortical receptive fields and receptive field plasticity</a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(117).pdf" style="text-decoration:none;">Policy Search via Density Estimation</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(118).pdf" style="text-decoration:none;">Approximate Planning in Large POMDPs via Reusable Trajectories</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(119).pdf" style="text-decoration:none;">Approximate inference algorithms for two-layer Bayesian networks</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(120).pdf" style="text-decoration:none;">An Analysis of Single-Layer Networks in Unsupervised Feature Learning</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(121).pdf" style="text-decoration:none;">Learning Continuous Phrase Representations and Syntactic Parsing with Recursive Neural Networks</a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(122).pdf" style="text-decoration:none;">A Probabilistic Model for SemanticWord Vectors </a></b></li>  
      
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(123).pdf" style="text-decoration:none;">Thermodynamics of Restricted Boltzmann Machines and Related Learning Dynamics</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(123).pdf" style="text-decoration:none;">On Random Weights and Unsupervised Feature Learning</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(124).pdf" style="text-decoration:none;">Measurement-based adaptation protocol with quantum reinforcement learning</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(124).pdf" style="text-decoration:none;">Theorem 2.2: Near-optimality of optimal circular input for full convolution</a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(125).pdf" style="text-decoration:none;">Vulnerability of Deep Learning </a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(125).pdf" style="text-decoration:none;">Applying Online-search to Reinforcement Learning </a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(126).pdf" style="text-decoration:none;">Comparing Dynamics: Deep Neural Networks versus Glassy Systems</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(126).pdf" style="text-decoration:none;">From Uncertainty to Belief: Inferring the Specification Within</a></b></li> 
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(127).pdf" style="text-decoration:none;">Extrapolating quantum observables with machine learning: Inferring multiple phase transitions from properties of a single phase</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(127).pdf" style="text-decoration:none;">Make3D: Learning 3D Scene Structure from a Single Still Image</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(128).pdf" style="text-decoration:none;">A high-bias, low-variance introduction to Machine Learning for physicists</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(128).pdf" style="text-decoration:none;">Approximate planning in large POMDPs via reusable trajectories</a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(129).pdf" style="text-decoration:none;">Deep Learning Phase Segregation</a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(129).pdf" style="text-decoration:none;">Learning to Open New Doors</a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(130).pdf" style="text-decoration:none;">Learning architectures based on quantum entanglement: a simple matrix product state algorithm for image recognition </a></b></li>    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(130).pdf" style="text-decoration:none;">Discriminative Training of Kalman Filters </a></b></li>    
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(131).pdf" style="text-decoration:none;">Bridging Many-Body Quantum Physics and Deep Learning via Tensor Networks </a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(131).pdf" style="text-decoration:none;">Learning Omnidirectional Path Following Using Dimensionality Reduction </a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(132).pdf" style="text-decoration:none;">Quantum algorithms for training Gaussian Processes </a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(132).pdf" style="text-decoration:none;">Policy Search via the Signed Derivative</a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(133).pdf" style="text-decoration:none;">Matrix Product Operators for Sequence to Sequence Learning </a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(133).pdf" style="text-decoration:none;">Policy invariance under reward transformations: Theory and application to reward shaping</a></b></li>     
    
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(134).pdf" style="text-decoration:none;">Protection against Cloning for Deep Learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(134).pdf" style="text-decoration:none;">Stable Algorithms for Link Analysis</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(135).pdf" style="text-decoration:none;">Barren plateaus in quantum neural network training landscapes</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(135).pdf" style="text-decoration:none;">Contextual Search and Name Disambiguation in Email Using Graphs</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(136).pdf" style="text-decoration:none;">Learning quantum models from quantum or classical data</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(137).pdf" style="text-decoration:none;">Towards Quantum Machine Learning with Tensor Networks</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(138).pdf" style="text-decoration:none;">A note on state preparation for quantum machine learning</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(139).pdf" style="text-decoration:none;">Circuit-centric quantum classifiers</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(140).pdf" style="text-decoration:none;">Classical Verification of Quantum Computations</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(136).pdf" style="text-decoration:none;">Data-Intensive Question Answering</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(137).pdf" style="text-decoration:none;">PEGASUS: A policy search method for large MDPs and POMDPs</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(138).pdf" style="text-decoration:none;">Learning Factor Graphs in Polynomial Time and Sample Complexity</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(139).pdf" style="text-decoration:none;">Shift-Invariant Sparse Coding for Audio Classification</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(140).pdf" style="text-decoration:none;">An Information-Theoretic Analysis of Hard and Soft Assignment Methods for Clustering</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(141).pdf" style="text-decoration:none;"> Smallest Neural Network to Learn the Ising Criticality</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Andrew-Ng-Publications/blob/master/ang(142).pdf" style="text-decoration:none;">Quantum Machine Learning Matrix Product States</a></b></li>
    
    </ul>
